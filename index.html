@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Come-Come</title>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="wrap">
+  <div id="hud">
+    <div>PONTOS<b id="s">00000</b></div>
+    <div>FASE<b id="l">1</b></div>
+    <div>VIDAS<b id="v"></b></div>
+    <div>RECORDE<b id="h">00000</b></div>
+  </div>
+  <canvas id="c" aria-label="Jogo Come-Come"></canvas>
+  <div id="hint"></div>
+</div>
+<div id="pad">
+  <span></span><button data-d="0,-1" aria-label="Cima">▲</button><span></span>
+  <button data-d="-1,0" aria-label="Esquerda">◀</button><button data-d="0,1" aria-label="Baixo">▼</button><button data-d="1,0" aria-label="Direita">▶</button>
+</div>
+<script src="game.js"></script>
+</body>
+</html>
