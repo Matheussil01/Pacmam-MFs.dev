@@ -1,57 +1,65 @@
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Pacmam%20MFs.dev&fontSize=38&fontColor=FFFFFF&fontAlignY=42&color=E10600&animation=fadeIn" alt="Banner Pacmam-MFs.dev" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Pacmam%20MFs.dev&fontSize=48&fontColor=FFFFFF&fontAlignY=42&color=E10600&animation=fadeIn" alt="Banner Pacmam MFs.dev" />
 
-  <h1>Pacmam MFs.dev | Jogo Web</h1>
-  <p>Jogo de labirinto no estilo Pac-Man, desenvolvido com JavaScript puro.</p>
+  <strong>Jogo inspirado no clássico Pac-Man, desenvolvido com HTML, CSS e JavaScript.</strong>
 
-  <a href="https://github.com/Matheussil01/Pacmam-MFs.dev"><img src="https://img.shields.io/badge/C%C3%B3digo_no_GitHub-E10600?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" /></a>
-  <a href="https://mfs-dev.netlify.app/"><img src="https://img.shields.io/badge/Meu_Portf%C3%B3lio-171717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <br><br>
+
+  <a href="https://matheussil01.github.io/Pacmam-MFs.dev/">
+    <img src="https://img.shields.io/badge/JOGAR_AGORA-E10600?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Jogar agora" />
+  </a>
+  <a href="https://mfs-dev.netlify.app/">
+    <img src="https://img.shields.io/badge/MEU_PORTFÓLIO-181818?style=for-the-badge&logo=vercel&logoColor=white" alt="Meu portfólio" />
+  </a>
 </div>
 
----
+## Sobre o projeto
 
-## <span style="color:#E10600">Sobre o projeto</span>
-
-O **Pacmam MFs.dev** é um jogo web inspirado no estilo clássico de labirinto e perseguição. Foi desenvolvido com HTML, CSS e JavaScript, com controles para computador e dispositivos móveis.
+**Pacmam MFs.dev** é um jogo de navegador inspirado em Pac-Man. O projeto foi criado para praticar desenvolvimento front-end, programação de interações em JavaScript e lógica de jogos.
 
 ## Funcionalidades
 
-- Três mapas jogáveis
-- Fantasmas com comportamentos distintos
-- Fases com dificuldade progressiva
-- Controles por teclado e por toque na tela
-- Execução diretamente no navegador
+- Três mapas para explorar.
+- Fantasmas com comportamentos diferentes.
+- Fases com dificuldade progressiva.
+- Controles por teclado no computador e toque no celular.
+- Execução diretamente no navegador.
 
 ## Tecnologias utilizadas
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-181818?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS e JavaScript" />
 </div>
 
-## Como executar
+## Estrutura do projeto
 
-Acesse a [versão online](https://matheussil01.github.io/Pacmam-MFs.dev/) ou clone o repositório e abra `index.html`.
+```text
+Pacmam-MFs.dev/
+├── index.html
+├── style.css
+├── game.js
+└── README.md
+```
+
+## Como jogar
+
+Acesse o botão **JOGAR AGORA** no topo deste README e jogue pelo navegador, sem instalar nada.
+
+Para executar localmente, clone o repositório e abra o `index.html` no navegador.
 
 ```bash
 git clone https://github.com/Matheussil01/Pacmam-MFs.dev.git
 ```
 
-Arquivos principais: `index.html`, `style.css` e `game.js`.
-
-## Aprendizados
-
-Este projeto faz parte do meu portfólio de desenvolvimento de software e representa a prática de conceitos de programação, organização de código e construção de aplicações.
-
 ## Autor
 
-**Matheus Faustino** — Desenvolvedor Front-end | Estudante de Ciência da Computação
+Desenvolvido por **Matheus Faustino**.
 
-[GitHub](https://github.com/Matheussil01) · [LinkedIn](https://www.linkedin.com/in/matheussil01/) · [Portfólio](https://mfs-dev.netlify.app/)
+- [GitHub](https://github.com/Matheussil01)
+- [Portfólio](https://mfs-dev.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/matheussil01/)
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=E10600" alt="Rodapé vermelho" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=E10600" alt="Rodapé vermelho" />
 </div>
